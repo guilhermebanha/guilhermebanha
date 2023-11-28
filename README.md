@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Guilherme Banha</h1>
+<h3 align="center">Currently 17yo as a student</h3>
 
-<!--
-**guilhermebanha/guilhermebanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studyin on **EPBJC**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Flutter, Web and C#**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my real projects are available at [https://github.com/guilhermebanha](https://github.com/guilhermebanha)
+
+- 👯 I’m looking to start studying **web development**
+
+- 📫 Reach me from **guilhermebanha.dev@gmail.com**
+
+- 📄 Know about my professional school [https://epbjc.pt](https://epbjc.pt)
+
+- ⚡ Fun fact **I enjoy manhwa**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/guilhermebg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="guilhermebg" /></a></p><br><br>
