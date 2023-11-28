@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Guilherme Banha</h1>
-<h3 align="center">Currently 17yo as a student</h3>
+<h3 align="center">Currently 17yo student</h3>
 
-- 🔭 I’m currently studyin on **EPBJC**
+- 🔭 I’m currently studying on **EPBJC**
 
 - 🌱 I’m currently learning **Flutter, Web and C#**
 
-- 👨‍💻 All of my real projects are available at [https://github.com/guilhermebanha](https://github.com/guilhermebanha)
+- 👨‍💻 All of my real projects are available at [My Github](https://github.com/guilhermebanha)
 
 - 👯 I’m looking to start studying **web development**
 
 - 📫 Reach me from **guilhermebanha.dev@gmail.com**
 
-- 📄 Know about my professional school [https://epbjc.pt](https://epbjc.pt)
+- 📄 Know about the professional school I attend [Epbjc](https://epbjc.pt)
 
 - ⚡ Fun fact **I enjoy manhwa**
 
