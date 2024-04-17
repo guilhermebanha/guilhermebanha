@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Banha</h1>
-<h3 align="center">Currently 17yo student</h3>
+<h3 align="center">Currently 18yo student</h3>
 
 - 🔭 I’m currently studying on **EPBJC**
 
