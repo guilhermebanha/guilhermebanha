@@ -13,7 +13,7 @@
 
 - 📄 Know about the professional school I attend [Epbjc](https://epbjc.pt)
 
-- ⚡ Fun fact **I enjoy manhwa**
+- ⚡ Fun fact **I enjoy reading manhwa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
