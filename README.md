@@ -13,9 +13,10 @@
 
 - 📄 Know about the professional school I attend [Epbjc](https://epbjc.pt)
 
-- ⚡ Fun fact **I enjoy reading manhwa**
+- ⚡ Fun fact **I enjoy reading manhwa stories**
 
 <h3 align="left">Connect with me:</h3>
+Personal [Discord](https://discordapp.com/users/871862719131811931)
 <p align="left">
 </p>
 
