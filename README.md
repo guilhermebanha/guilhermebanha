@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I enjoy reading manhwa stories**
 
 <h3 align="left">Connect with me:</h3>
-Personal [Discord](https://discordapp.com/users/871862719131811931)
+<p>Personal <a href="https://discordapp.com/users/871862719131811931">Discord</a></a>
 <p align="left">
 </p>
 
