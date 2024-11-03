@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **IoT implementations with Web**
 
-- 📫 How to reach me **guilhermebanha.dev@gmail.com**
+- 📫 How to reach me, email: **guilhermebanha.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
